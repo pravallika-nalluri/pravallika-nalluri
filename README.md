@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pravallika-nalluri
 - 👀 I’m interested in app and web development and in data science and python 
-- 🌱 I’m currently learning pyhton and data science
+- 🌱 I’m currently learning datascience,web development and completed learning html,css,python
 - 💞️ I’m looking to collaborate on projects based on python or data science
 - 📫 How to reach me pravallikanalluri164@gmail.com
 
